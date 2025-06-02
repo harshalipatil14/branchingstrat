@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:x!
+|2,0,1748853566,,"x!"
 :x
 |2,0,1748852759,,"x"
-:x!
-|2,0,1748850621,,"x!"
 
 # Search String History (newest to oldest):
 
@@ -27,22 +27,38 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/index.html
-|4,48,1,0,1748852759,"~/index.html"
-'1  3  21  ~/branchstrat/index.html
-|4,49,3,21,1748850621,"~/branchstrat/index.html"
-'2  2  17  ~/branchstrat/index.html
-|4,50,2,17,1748849497,"~/branchstrat/index.html"
-'3  2  17  ~/branchstrat/index.html
-|4,51,2,17,1748849497,"~/branchstrat/index.html"
+'0  2  20  ~/index.html
+|4,48,2,20,1748853566,"~/index.html"
+'1  1  0  ~/index.html
+|4,49,1,0,1748852759,"~/index.html"
+'2  1  0  ~/index.html
+|4,50,1,0,1748852759,"~/index.html"
+'3  3  21  ~/branchstrat/index.html
+|4,51,3,21,1748850621,"~/branchstrat/index.html"
+'4  2  17  ~/branchstrat/index.html
+|4,52,2,17,1748849497,"~/branchstrat/index.html"
+'5  2  17  ~/branchstrat/index.html
+|4,53,2,17,1748849497,"~/branchstrat/index.html"
 
 # Jumplist (newest first):
+-'  2  20  ~/index.html
+|4,39,2,20,1748853566,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1748853535,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1748852759,"~/index.html"
 -'  3  21  ~/branchstrat/index.html
 |4,39,3,21,1748850621,"~/branchstrat/index.html"
 -'  3  21  ~/branchstrat/index.html
 |4,39,3,21,1748850621,"~/branchstrat/index.html"
+-'  3  21  ~/branchstrat/index.html
+|4,39,3,21,1748850621,"~/branchstrat/index.html"
+-'  3  21  ~/branchstrat/index.html
+|4,39,3,21,1748850621,"~/branchstrat/index.html"
+-'  2  17  ~/branchstrat/index.html
+|4,39,2,17,1748850585,"~/branchstrat/index.html"
+-'  2  17  ~/branchstrat/index.html
+|4,39,2,17,1748850585,"~/branchstrat/index.html"
 -'  2  17  ~/branchstrat/index.html
 |4,39,2,17,1748850585,"~/branchstrat/index.html"
 -'  2  17  ~/branchstrat/index.html
@@ -51,6 +67,18 @@
 |4,39,2,17,1748849497,"~/branchstrat/index.html"
 -'  2  17  ~/branchstrat/index.html
 |4,39,2,17,1748849497,"~/branchstrat/index.html"
+-'  2  17  ~/branchstrat/index.html
+|4,39,2,17,1748849497,"~/branchstrat/index.html"
+-'  2  17  ~/branchstrat/index.html
+|4,39,2,17,1748849497,"~/branchstrat/index.html"
+-'  1  0  ~/branchstrat/index.html
+|4,39,1,0,1748849429,"~/branchstrat/index.html"
+-'  1  0  ~/branchstrat/index.html
+|4,39,1,0,1748849429,"~/branchstrat/index.html"
+-'  1  0  ~/branchstrat/index.html
+|4,39,1,0,1748849429,"~/branchstrat/index.html"
+-'  1  0  ~/branchstrat/index.html
+|4,39,1,0,1748849429,"~/branchstrat/index.html"
 -'  1  0  ~/branchstrat/index.html
 |4,39,1,0,1748849429,"~/branchstrat/index.html"
 -'  1  0  ~/branchstrat/index.html
@@ -63,8 +91,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1748852745	0
-	"	1	0
+	*	1748853563	0
+	"	2	20
+	^	2	21
+	.	2	20
+	+	2	20
 
 > ~/branchstrat/index.html
 	*	1748850618	0
